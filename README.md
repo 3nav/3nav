@@ -1,16 +1,20 @@
-## Hi there 👋
 
-<!--
-**3nav/3nav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About me :3
 
-Here are some ideas to get you started:
+| | |
+|---|---|
+| **info about me** | i make funny stuff |
+| **contact me? mayb idk** | [my guns.lol](https://guns.lol/nkj) |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## My status -w-
+
+| Language | Usage |
+|---|---|
+| ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white) | games |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | projects |
+| ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) | apps |
+| ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white) | im a skid.. :( |
+
+---
